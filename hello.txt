@@ -2,3 +2,4 @@
 other string
 
 Hello, git!
+Hello, git rebase!
